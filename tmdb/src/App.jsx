@@ -5,7 +5,7 @@ import axios from 'axios';
 import './App.css';
 import './MovieFilter.css';
 
-const API_KEY = 'e2a2e13762f833e2c3b32a8ca3bc2f76';
+const API_KEY = "your api here ";
 
 function App() {
   const [genres, setGenres] = useState([]);
